@@ -13,7 +13,7 @@ use com frequência.
 ainda estou trabalhando nesse projetinho
 
 ## 🛠 FERRAMENTAS USADAS: 🛠
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) <br/S>
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) <br/>
 Foi usado para fazer inteiramente todo
 o projeto, desde abrir o navegador, e 
 fazer as pesquisas com os loops
